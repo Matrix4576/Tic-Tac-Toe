@@ -1,4 +1,2 @@
 # Game
-Made in HTML5
-Host it!!!
-Whoever can!
+Hello whoever is reading this. This is a game made in HTML, CSS and JS. 
